@@ -1,3 +1,3 @@
 # Custom-Alexa
 
-A program that I made to test speech recognition through pre-defined sentences.
+A pre-exisitng github repo that I copied to test out voice regogniction and other NLP tools.
